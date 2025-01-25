@@ -117,7 +117,6 @@ class TicTacToe {
 }
 
 void main() {
-  
   TicTacToe game = TicTacToe();
   game.play();
 }
